@@ -9,3 +9,4 @@ public class Class1 {
         System.out.println("Hello team!");
     }
 }
+// we see everything you can not hide :)
